@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/swapnilmali83/SM_TestProjects/_apis/build/status/swaptwap.JavaProject?branchName=master)](https://dev.azure.com/swapnilmali83/SM_TestProjects/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
